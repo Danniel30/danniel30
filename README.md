@@ -3,7 +3,7 @@
 ![Gif do Mario Codando](img/mario2.gif)
 --------
 
-😄 Olá, me chamo Danniel de Albuquerque!
+## 😄 Olá, me chamo Danniel de Albuquerque!
 
 💬 Sou estudante de Análise e Desenvolvimento de Sistemas com especialização em desenvolvimento front-end. Como entusiasta de TI, sou altamente motivado por ambientes colaborativos, onde posso interagir com a equipe e contribuir com discussões significativas para a entrega de projetos bem-sucedidos.
 
