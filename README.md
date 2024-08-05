@@ -16,11 +16,14 @@
 📫 danniel.albuquerque90@gmail.com   
 -------
 ### Minhas Tecnologias
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50px"/>
+<p>
 
 ----------
 ![Danniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danniel30&show_icons=true&theme=radical)
 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danniel30&layout=compact&langs_count=7&theme=radical"/>
 <!--
 **Danniel30/danniel30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
